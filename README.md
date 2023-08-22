@@ -1,8 +1,8 @@
 B-I-N-G-O GAME
 
-We are used to play a BINGO game in childhood days with pen and paper.But now we can play in a system. This program works based on simple logic by selecting the random numbers.
+We are used to play BINGO game in childhood days with pen and paper.But now we can play in PC. This program works based on simple logic by selecting the random numbers.
 
-Hope this game will surely give a fun to you.
+Hope this game will surely give fun to you.
 
 How to run this code?
 
